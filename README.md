@@ -13,7 +13,9 @@ potential sources of content.
   cd ~/Architects
   git clone git@github.com:architects/marketing-site.git
   ```
-
+- get a copy of the `skypager.json` file from @datapimp
+- create a file called skypager.json and add the contents from the
+  above.
 - go into the project folder, and run the development server:
 
   ```
